@@ -1,5 +1,7 @@
 
-
+.fw-light{
+    font-size: 4rem;
+}
 
 
 .col {
@@ -83,3 +85,8 @@
     background-color: #0056b3; 
   }
   
+  .mb-1{
+    color: #e0e0e0;
+  }
+
+ 
